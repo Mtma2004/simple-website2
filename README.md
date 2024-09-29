@@ -1,1 +1,1 @@
-# simple-website2
+# simple-websit2
